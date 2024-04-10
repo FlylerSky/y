@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "SVN-Agency FB";
+  src: url("/GFF-Latin-Bold.ttf");
+}
+* {padding: 0px;
+  margin: 0px
+}
+
+body {
+  font-family: "SVN-Agency FB";
+    font-size: 15pt;
+    background-color: #484B63;
+    text-align: center;
+    margin-top: 40%;}
+.all {
+  background-color: #7396CD;
+  margin: 10%;
+  padding: 5px;
+  border-radius: 5%;
+}
+a { 
+  display:flex;
+  margin-left: 25%;
+  margin-top: 10%; 
+  text-decoration: none;
+  border-left: solid 5px #00FF63;
+  background-color: #945EBA;
+  margin:10%;
+  text-align: center;
+  padding: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  
+}
+.name { color: #00E8FF}
